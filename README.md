@@ -1,2 +1,2 @@
 # Calculator
-calculator/ios App/Swift 4
+Calculator/ios App/Swift 4
